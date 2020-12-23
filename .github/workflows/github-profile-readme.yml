@@ -1,10 +1,10 @@
-name: Update README
-
+name: GitHub Profile README
 on:
-  push:
   schedule:
-    - cron: "0 */1 * * *"
-
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - master
 jobs:
   markscribe:
     runs-on: ubuntu-latest
@@ -25,3 +25,4 @@ jobs:
         with:
           commit_message: Update generated README
           branch: master
+

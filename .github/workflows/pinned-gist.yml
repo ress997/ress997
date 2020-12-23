@@ -1,0 +1,24 @@
+name: Pinned Gist
+on:
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+
+  productive-box:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: maxam2017/productive-box@master
+        env:
+          GH_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          GIST_ID: 4f37b38ff14afe0d2a8dc423d35f4b11
+          TIMEZONE: Asia/Tokyo
+
+  activity-box:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/activity-box@master
+        env:
+          GH_PAT: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: ress997
+          GIST_ID: 559fcae74ade8f679400bfa85d0db0e6
