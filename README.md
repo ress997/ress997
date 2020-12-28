@@ -1,6 +1,6 @@
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ress997)](https://github.com/ryo-ma/github-profile-trophy)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ress997&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ress997&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ress997)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Recent Releases I've Contributed To
 
