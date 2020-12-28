@@ -1,9 +1,9 @@
-![Trophy](https://github-profile-trophy.vercel.app/?username=ress997&column=7)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ress997&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ress997)
-![lambdalisue's github stats](https://github-readme-stats.vercel.app/api?username=ress997&show_icons=true&count_private=true&line_height=40)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ress997)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ress997&show_icons=true&count_private=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Recent Releases I've Contributed To
 {{range recentReleases 10}}
