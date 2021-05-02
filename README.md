@@ -14,7 +14,7 @@
 ### Recent Releases I've Contributed To
 
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) ([v2.3.0](https://github.com/CaiJimmy/hugo-theme-stack/releases/tag/v2.3.0), 1 month ago) - Card-style Hugo theme designed for bloggers
-- [kongdivin/hugo-theme-okayish-blog](https://github.com/kongdivin/hugo-theme-okayish-blog) ([v1.1.0](https://github.com/kongdivin/hugo-theme-okayish-blog/releases/tag/v1.1.0), 6 months ago) - An ok-ish blog theme for Hugo based on Vanilla
+- [kongdivin/hugo-theme-okayish-blog](https://github.com/kongdivin/hugo-theme-okayish-blog) ([v1.1.0](https://github.com/kongdivin/hugo-theme-okayish-blog/releases/tag/v1.1.0), 7 months ago) - An ok-ish blog theme for Hugo based on Vanilla
 - [qqhann/hugo-primer](https://github.com/qqhann/hugo-primer) ([v1.1.1](https://github.com/qqhann/hugo-primer/releases/tag/v1.1.1), 1 year ago) - Hugo theme based on GitHub&#39;s Primer CSS
 
 ### Recent Sponsors (Big Thank You!)
